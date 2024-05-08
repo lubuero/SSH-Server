@@ -14,5 +14,5 @@ pip install paramiko
 
 
 3. Run the script:
-4. 
+
 python connection_ssh.py
