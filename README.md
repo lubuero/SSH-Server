@@ -6,7 +6,7 @@ This script enables an SSH authentication on our server.
 
 1. Clone the repository:
 
-
+https://github.com/lubuero/SSH-Server.git
 
 2. Install the required dependencies:
 
