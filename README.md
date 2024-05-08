@@ -1,5 +1,4 @@
 # SSH-Server
-# SSH Authentication Simulation
 
 This script enables an SSH authentication on our server.
 
@@ -15,4 +14,5 @@ pip install paramiko
 
 
 3. Run the script:
-python ssh_authentication_simulation.py
+4. 
+python connection_ssh.py
